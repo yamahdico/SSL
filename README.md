@@ -1,7 +1,7 @@
 Standard DV SSL
 Commercial Wildcard SSL
 
-
+openssl pkcs12 -in yourfile.pfx -out outputfile.pem ** -legacy -provider-path "C:\Program Files\OpenSSL-Win64\bin" **
 
 
 https://slproweb.com/products/Win32OpenSSL.html
